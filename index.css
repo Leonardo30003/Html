@@ -1,0 +1,9 @@
+.encabezados {
+    background-color:rgb(141, 84, 182);
+    text-align: justify;
+    font-size: medium;
+}
+.prueba{
+    background-image: url(minecraft.jpg);
+    height: 1000px;
+}
